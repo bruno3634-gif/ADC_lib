@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>ADC_lib</name>
+            <creation-uuid>f2673f05-3a53-46ec-9be0-3299470d5b5c</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>UTF-8</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList/>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
